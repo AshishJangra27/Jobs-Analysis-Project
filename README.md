@@ -116,7 +116,7 @@ Below is a snapshot of the dataset structure with 5 random rows for better under
 
 ## **Author**
 - **Ashish Jangra** - [GitHub Profile](https://github.com/AshishJangra27)
-- **Colab Link** - [Colab]([https://github.com/AshishJangra27](https://colab.research.google.com/drive/1E1CPo_6YyH6VfsMdEkSQ3eCXIgs5yJMM?usp=sharing))
+- **Colab Link** - [GitHub Profile](https://colab.research.google.com/drive/1E1CPo_6YyH6VfsMdEkSQ3eCXIgs5yJMM?usp=sharing))
 
 ---
 
